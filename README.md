@@ -14,7 +14,7 @@ Os dados utilizados para treinar e testar o modelo foram obtidos a partir de um 
 Trabalhei cuidadosamente para garantir a integridade dos dados e realizar uma análise detalhada, ajustando o modelo para oferecer previsões confiáveis que possam contribuir para a tomada de decisões.
 
 ![Espaço](imgs/espaco_menor.png) 
-## 💸 Projeto 2 [🔗 Acessar]()
+## 💸 Projeto 2 [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/MLAnalise_Ecomerce/Vendas_Ecommerce.ipynb)
 ## Modelo de Machine Learning: Estratégias Baseadas em Dados para Melhorar Vendas no E-commerce (Regressão).  
 ![Representação](imgs/ecommerce-regressao.jpg) 
 Uma empresa de e-commerce comercializa produtos tanto por meio de um site quanto de um aplicativo móvel. Para cada cliente, a empresa registra o total gasto mensalmente, além do tempo que eles permanecem logados no sistema após cada login, seja no aplicativo ou no site.  
