@@ -1,7 +1,5 @@
 # Projetos de Data Science com Python 🐍
-Projetos de Ciência de Dados com Python.
 
-![Espaço](imgs/espaco_menor.png) 
 ## 🔣 Limpeza e Pré-Processamento de Dados Complexos com NumPy [🔗 Acessar](Limpeza_Dados_Numpy/Limpeza-Numpy.ipynb)  
 ![Representação](imgs/numpy.jpg)
 Neste projeto, desenvolvi uma solução para um cenário desafiador de Ciência de Dados. Imagine receber um dataset extremamente complicado:  
