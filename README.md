@@ -49,6 +49,32 @@ Todo o projeto foi realizado no contexto de um problema real de E-Commerce Analy
 
 
 ![Espaço](imgs/espaco_menor.png) 
+## 📐 Aplicação de Engenharia de Atributos em Dados de E-Commerce [🔗 Acessar](Eng_Atributos_Ecommerce/Engenharia_Atrib.ipynb)  
+![Representação](imgs/analise-exploratoria2.jpg)  
+Neste projeto, desenvolvi técnicas de Engenharia de Atributos para analisar dados sob diferentes perspectivas e criar variáveis que auxiliem na compreensão da variável-alvo: identificar se um produto será enviado com atraso ou não.  
+
+__Contexto do Problema:__ O cenário envolve uma empresa internacional de E-commerce que vende produtos eletrônicos.
+
+__As operações incluem:__
+- Produtos armazenados em um armazém na sede da empresa.
+- Entregas realizadas por navio, avião ou caminhão, dependendo da região do cliente.
+- Descontos oferecidos com base no peso dos produtos.
+- Atendimento ao cliente por meio de chamadas ao suporte.
+- Avaliações dos clientes sobre a experiência de compra após a entrega.
+- O único dado pessoal disponível é o gênero do cliente.
+
+__Objetivo:__ O foco foi criar novas variáveis a partir dos dados disponíveis, permitindo análises mais detalhadas e simplificadas que ajudem a entender fatores que influenciam atrasos nas entregas.
+
+__Dados e Métodos:__ Utilizei um conjunto de dados fictício, representando informações reais de operações de e-commerce.
+
+__Criei variáveis que exploram:__  
+- O impacto do método de entrega no atraso.
+- A relação entre descontos e a probabilidade de atraso.
+- O comportamento dos clientes com base em gênero, chamadas ao suporte e avaliações de compra.
+- O trabalho demonstra como a Engenharia de Atributos pode transformar dados brutos em informações mais significativas para modelagem e tomada de decisão.
+
+
+![Espaço](imgs/espaco_menor.png) 
 ## 🩸 Modelo de Machine Learning: O paciente vai ou não desenvolver uma doença hepática? (Classificação) [🔗 Acessar](MLClassificacao_Doenca_Hepatica/Classificacao-Doenca-Hepatica.ipynb) 
 ![Representação](imgs/classificacao-img.jpg) 
 Neste mini-projeto, desenvolvi um modelo de Machine Learning para prever se um paciente desenvolverá ou não uma doença hepática, utilizando diversas características do próprio paciente. A ideia é que esse modelo possa ser uma ferramenta útil para médicos, hospitais ou governos, auxiliando no planejamento de gastos com saúde ou na criação de políticas de prevenção mais eficazes.  
