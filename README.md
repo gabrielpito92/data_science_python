@@ -75,6 +75,29 @@ __Criei variáveis que exploram:__
 
 
 ![Espaço](imgs/espaco_menor.png) 
+## ⚙️ Pré-processamento de Dados para E-Commerce Analytics [🔗 Acessar](Process_Dados_Ecommerce/Pre_Processamento.ipynb)  
+![Representação](imgs/analise-exploratoria3.jpg)  
+
+Neste projeto, apliquei técnicas de pré-processamento de dados para preparar um conjunto de dados voltado à modelagem preditiva no contexto de E-Commerce Analytics.
+
+__Contexto do Problema__  
+A análise foca em uma empresa internacional de comércio eletrônico que:  
+- Armazena produtos em um armazém central e realiza entregas globais por navio, avião ou caminhão.
+- Oferece descontos com base no peso dos produtos comprados.
+- Possui suporte ao cliente para dúvidas e problemas durante o processo de compra.
+- Coleta avaliações de clientes sobre a experiência de compra.
+- Disponibiliza informações sobre o gênero dos clientes como dado pessoal único.
+
+_O conjunto de dados utilizado foi enriquecido previamente com novas variáveis criadas durante a fase de Engenharia de Atributos (item anterior)._
+
+__Pré-processamento de variáveis categóricas:__
+- Aplicação de Label Encoding e One-Hot Encoding para transformar dados categóricos em formatos adequados para algoritmos de aprendizado de máquina.
+- Feature Scaling de variáveis numéricas: Utilização de técnicas de Normalização e Padronização para garantir que os valores estejam em escalas apropriadas, otimizando o desempenho do modelo.
+
+Embora a etapa de modelagem preditiva não seja abordada neste trabalho, o projeto foca na preparação dos dados, uma fase crítica para garantir a qualidade e eficácia da análise posterior.
+
+
+![Espaço](imgs/espaco_menor.png) 
 ## 🩸 Modelo de Machine Learning: O paciente vai ou não desenvolver uma doença hepática? (Classificação) [🔗 Acessar](MLClassificacao_Doenca_Hepatica/Classificacao-Doenca-Hepatica.ipynb) 
 ![Representação](imgs/classificacao-img.jpg) 
 Neste mini-projeto, desenvolvi um modelo de Machine Learning para prever se um paciente desenvolverá ou não uma doença hepática, utilizando diversas características do próprio paciente. A ideia é que esse modelo possa ser uma ferramenta útil para médicos, hospitais ou governos, auxiliando no planejamento de gastos com saúde ou na criação de políticas de prevenção mais eficazes.  
