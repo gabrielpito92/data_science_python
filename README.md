@@ -30,6 +30,27 @@ Para essa análise, utilizei o Pandas, uma das mais poderosas ferramentas de man
 
 
 ![Espaço](imgs/espaco_menor.png) 
+## 🔎 Análise Exploratória de Dados no Contexto de E-Commerce Analytics [🔗 Acessar](Analise_Exp_Ecommerce/Analise_Explo_Ecommerce.ipynb)  
+![Representação](imgs/analise_exploratoria1.jpg)
+Neste projeto, desenvolvi habilidades fundamentais em uma das etapas mais importantes da Ciência de Dados: a Análise Exploratória. O trabalho foi dividido em duas partes principais:  
+
+__Parte 1: Detalhes Técnicos da Análise Exploratória__
+- Realizei análises estatísticas detalhadas.  
+- Construi visualizações de dados para interpretar padrões e tendências.  
+- Analisei gráficos e tabelas com foco em insights relevantes.  
+- Apliquei técnicas de análise univariada e bivariada.  
+- Elaborei um relatório final consolidando as descobertas.  
+
+__Parte 2: Análise Exploratória Orientada a Perguntas de Negócio__
+- Manipulei os dados utilizando Data Wrangling com o Pandas.  
+- Respondi perguntas específicas relacionadas ao negócio.  
+- Analisei os dados sob diferentes perspectivas para identificar oportunidades e desafios.  
+- Apliquei customização de gráficos para uma comunicação visual mais clara e eficaz.  
+
+Todo o projeto foi realizado no contexto de um problema real de E-Commerce Analytics, simulando situações práticas em que a análise de dados é usada para tomada de decisões estratégicas.  
+
+
+![Espaço](imgs/espaco_menor.png) 
 ## 🩸 Modelo de Machine Learning: O paciente vai ou não desenvolver uma doença hepática? (Classificação) [🔗 Acessar](MLClassificacao_Doenca_Hepatica/Classificacao-Doenca-Hepatica.ipynb) 
 ![Representação](imgs/classificacao-img.jpg) 
 Neste mini-projeto, desenvolvi um modelo de Machine Learning para prever se um paciente desenvolverá ou não uma doença hepática, utilizando diversas características do próprio paciente. A ideia é que esse modelo possa ser uma ferramenta útil para médicos, hospitais ou governos, auxiliando no planejamento de gastos com saúde ou na criação de políticas de prevenção mais eficazes.  
