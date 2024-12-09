@@ -31,7 +31,7 @@ Para essa análise, utilizei o Pandas, uma das mais poderosas ferramentas de man
 
 ![Espaço](imgs/espaco_menor.png) 
 ## 🔎 Análise Exploratória de Dados no Contexto de E-Commerce Analytics [🔗 Acessar](Analise_Exp_Ecommerce/Analise_Explo_Ecommerce.ipynb)  
-![Representação](imgs/analise_exploratoria1.jpg)
+![Representação](imgs/analise-exploratoria1.jpg)
 Neste projeto, desenvolvi habilidades fundamentais em uma das etapas mais importantes da Ciência de Dados: a Análise Exploratória. O trabalho foi dividido em duas partes principais:  
 
 __Parte 1: Detalhes Técnicos da Análise Exploratória__
