@@ -2,7 +2,36 @@
 Projetos de Ciência de Dados com Python.
 
 ![Espaço](imgs/espaco_menor.png) 
-## 🩸 Projeto 1 [🔗 Acessar](MLClassificacao_Doenca_Hepatica/Classificacao-Doenca-Hepatica.ipynb)
+## 🔣 Projeto 1 [🔗 Acessar](Limpeza_Dados_Numpy/Limpeza-Numpy.ipynb)
+## Limpeza e Pré-Processamento de Dados Complexos com NumPy;  
+![Representação](imgs/numpy.jpg)
+Neste projeto, desenvolvi uma solução para um cenário desafiador de Ciência de Dados. Imagine receber um dataset extremamente complicado:  
+- Dados repletos de strings e caracteres especiais.  
+- Problemas de encoding que tornam a leitura difícil.  
+- Colunas com datas mal formatadas e valores numéricos misturados com textos.  
+- URL’s contendo IDs críticos para a análise.  
+- Valores ausentes e colunas com informações que deveriam estar distribuídas em três ou mais colunas.  
+
+E, para complicar ainda mais, parte dos dados essenciais para a análise está em outro dataset, que precisa ser combinado com o primeiro. O objetivo principal foi limpar e pré-processar esses datasets, tornando-os prontos para análise. Tudo isso foi feito utilizando apenas NumPy, um pacote poderoso da linguagem Python, conhecido por suas capacidades de computação e processamento de dados.  
+Neste projeto, enfrento desafios comuns em projetos reais e demonstro como superar esses obstáculos utilizando técnicas de manipulação de dados com NumPy. O resultado é um pipeline eficiente para preparar dados complexos para a sequência do processo de análise. __Explore o código e acompanhe cada passo dessa jornada!__
+
+
+![Espaço](imgs/espaco_menor.png) 
+## 🐼 Projeto 2 [🔗 Acessar](Dados_Escolares_Pandas/Dados_Escolares_Pandas.ipynb)
+## Análise de Dados Escolares com Pandas;  
+![Representação](imgs/pandas.jpg)
+Neste projeto, explorei questões importantes relacionadas à performance escolar, utilizando Ciência de Dados para investigar e responder perguntas como:  
+1. Há diferença na performance escolar entre alunos de escolas públicas e particulares?  
+2. O que diferencia as escolas que formam alunos de alta performance?  
+3. Escolas (públicas ou particulares) com orçamentos mais altos têm alunos com melhores resultados nos testes de Matemática e Redação?  
+4. O tamanho da escola (pequeno, médio ou grande porte) influencia na performance escolar dos alunos?  
+5. Em qual tipo de escola (pública ou particular) há maior índice de aprovação?  
+
+Para essa análise, utilizei o Pandas, uma das mais poderosas ferramentas de manipulação de dados da linguagem Python. Este projeto demonstra como explorar e interpretar dados educacionais para gerar insights significativos e responder a questões relevantes sobre o impacto de fatores como tipo de escola, orçamento e tamanho no desempenho dos alunos.
+
+
+![Espaço](imgs/espaco_menor.png) 
+## 🩸 Projeto 6 [🔗 Acessar](MLClassificacao_Doenca_Hepatica/Classificacao-Doenca-Hepatica.ipynb)
 ## Modelo de Machine Learning: O paciente vai ou não desenvolver uma doença hepática? (Classificação); 
 ![Representação](imgs/classificacao-img.jpg) 
 Neste mini-projeto, desenvolvi um modelo de Machine Learning para prever se um paciente desenvolverá ou não uma doença hepática, utilizando diversas características do próprio paciente. A ideia é que esse modelo possa ser uma ferramenta útil para médicos, hospitais ou governos, auxiliando no planejamento de gastos com saúde ou na criação de políticas de prevenção mais eficazes.  
@@ -14,7 +43,7 @@ Os dados utilizados para treinar e testar o modelo foram obtidos a partir de um 
 Trabalhei cuidadosamente para garantir a integridade dos dados e realizar uma análise detalhada, ajustando o modelo para oferecer previsões confiáveis que possam contribuir para a tomada de decisões.
 
 ![Espaço](imgs/espaco_menor.png) 
-## 💸 Projeto 2 [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/MLAnalise_Ecomerce/Vendas_Ecommerce.ipynb)
+## 💸 Projeto 7 [🔗 Acessar](https://github.com/gabrielpito92/data_science_python/blob/main/MLAnalise_Ecomerce/Vendas_Ecommerce.ipynb)
 ## Modelo de Machine Learning: Estratégias Baseadas em Dados para Melhorar Vendas no E-commerce (Regressão).  
 ![Representação](imgs/ecommerce-regressao.jpg) 
 Uma empresa de e-commerce comercializa produtos tanto por meio de um site quanto de um aplicativo móvel. Para cada cliente, a empresa registra o total gasto mensalmente, além do tempo que eles permanecem logados no sistema após cada login, seja no aplicativo ou no site.  
